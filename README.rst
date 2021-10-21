@@ -13,20 +13,23 @@ Terms to Know:
 - Attack Roll: a number calculated by rolling a twenty sided die and adding different modifers to it
 - Creature: refers to all living entities including monsters and players
 - GM: this is the head of each dungeons and dragons campaign. They hold all information and designate the actions of non-player characters
+- NAT TWENNY: this is a possible result of the attack roll of the program. A NAT TWENNY always hits the targer and does extra damage.
 
 The combat system of dungeons and dragons can be a daunting thing. AttackHelper is here to help simplify all of this for you, but there are still a few things you must know when fighting. As soon as combat begins in dungeons and dragons all creatures participating roll initiative and then during combat each creature takes its turn based on that initiative roll. Rolling initiative means to roll a twenty sided die and add your dexterity modifier to it. On your turn if you are nearby a creature, you can attack it - here is where you use the program. After configuring the program as you want (configuration information is available later), click on the large button on the left. The largest number at the bottom of the GUI is calculated using your stats and a simulated roll of a twenty sided die, and this number must surpass the enemy's armor class in order for the damage to go through. If the enemy's armor class is low enough, congrats! Simply tell your GM your total damage, as designated in the GUI. Otherwise, your attack does not hit.
 
 Configurations
 --------------
 
-Before Making an Attack Roll:
+Configurations to Make Before Clicking the "Do The Thing" Button:
 
 - Dropbox that allows you to select which weapons to attack with
 - Dropbox that allows you to select if you have advantage or disadvantage on an attack roll
 - Dropbox that allows you to select with how many charges of your Goat Staff you would like to hit with
 - Dropbox that allows you to choose if you want to use a paladin's divine smite, and at what level
  
-After Making an Attack Roll: 
+Configurations to Make Before Clicking the "Do The Thing" Button:
+
+- 
 
 Installation
 ------------
