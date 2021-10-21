@@ -8,6 +8,7 @@ This program is designed for certain characters in the game of dungeons and drag
 Unfamiliar with Dnd? No Problem!
 --------------------------------
 Terms to Know:
+
 - Armor Class: a number assigned to every creature that shows how hard it is to hit
 - Attack Roll: a number calculated by rolling a twenty sided die and adding different modifers to it
 - Creature: refers to all living entities including monsters and players
@@ -19,6 +20,7 @@ Configurations
 --------------
 
 Before Making an Attack Roll:
+
 - Dropbox that allows you to select which weapons to attack with
 - Dropbox that allows you to select if you have advantage or disadvantage on an attack roll
 - Dropbox that allows you to select with how many charges of your Goat Staff you would like to hit with
