@@ -3,7 +3,7 @@ AttackHelper
 
 *Great for dnd enthusiasts who want to save time in combat or for new players who want to make combat easier.*
  
-The purpose of this program is to automate an attack in dungeons and dragons. Normally, making an attack takes time and you have to roll quite a few dice and make calculations, so this system aims to reduce the headache. This program is designed for certain characters in the game of dungeons and dragons. The types of characters for whom this program is meant for includes any characters that are barbarians of any level or paladins up to level 12. Any combination of these two classes is also viable, so long as paladin does not go beyond level 12. There is a limited selection of weapons available in this program at the moment. User must understand basic java to use this program as intended.
+The purpose of this program is to automate an attack in dungeons and dragons. Normally, making an attack takes time and you have to roll quite a few dice and make calculations, so this system aims to reduce the headache. This program is designed for certain characters in the game of dungeons and dragons. The types of characters for whom this program is meant for includes any characters that are barbarians of any level or paladins up to level 12. Any combination of these two classes is also viable, so long as paladin does not go beyond level 12. There is a limited selection of weapons available in this program at the moment. It is recommended that the user understands basic java and has all necessary installations to run a java program.
 
 Unfamiliar with Dnd? No Problem!
 --------------------------------
@@ -41,10 +41,11 @@ Configurations to Make Before Clicking the "Do The Thing" Button:
 - Dropbox that allows you to select which weapons to attack with
 - Dropbox that allows you to select if you have advantage or disadvantage on an attack roll
 - Dropbox that allows you to select with how many charges of your Goat Staff you would like to hit with
+    - Each charge is 1 extra six sided die of damage.
 - Dropbox that allows you to choose if you want to use a paladin's divine smite, and at what level
-    - Level 1 smite does extra damage equal to 2 eight sided dice, and each further level does an extra eight sided die of damage
-- Checkbox to be activated if your character is currently in a barbarian rage
-- Checkbox to be activated if your character would like to use the battlemaster feature
+    - Level 1 smite does extra damage equal to 2 eight sided dice, and each further level does 1 extra eight sided die of damage
+- Checkbox to be activated if your character is currently in a barbarian rage. This equals a +2 to damage
+- Checkbox to be activated if your character would like to use the battlemaster feature. Each use equals 2 extra eight sided dice of damage.
 - Checkbox to be activated only if you know your character will deal the extra damage of a critical attack (see NAT TWENNY above)
  
 Configurations to Make After Clicking the "Do The Thing" Button:
