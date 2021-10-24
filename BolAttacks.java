@@ -406,10 +406,10 @@ public class BolAttacks
     public static void setSouthPanel()
     {
         southPanel.setLayout(new BoxLayout(southPanel, BoxLayout.Y_AXIS));
-        JLabel screwKeaton = new JLabel("You Rolled a:");
-        screwKeaton.setFont(new Font("Verdana", Font.BOLD, 24));
+        JLabel sk = new JLabel("You Rolled a:");
+        sk.setFont(new Font("Verdana", Font.BOLD, 24));
         attackLabel.setFont(new Font("Verdana", Font.BOLD, 24));
-        southPanel.add(screwKeaton);
+        southPanel.add(sk);
         southPanel.add(attackLabel);
     }
 }
