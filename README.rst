@@ -24,6 +24,8 @@ Installation
 
 If you would like to download or just look at the code, please visit the github page https://github.com/howardjw2/AttackHelper/
 
+If you're curious about the naming scheme of the java files, the name Bol comes from the character that this program was originally based on.
+
 After the download and after making any desired changes, you can turn this into a jar file. You must have a java runtime environment if you wish to do this and you should have a basic understanding of java. To turn the program into a jar file, see https://docs.oracle.com/javase/tutorial/deployment/jar/build.html
 
 Configurations in the Code
@@ -47,6 +49,22 @@ Configurations to Make Before Clicking the "Do The Thing" Button:
 Configurations to Make After Clicking the "Do The Thing" Button:
 
 - 4 buttons that allow you to mitigate damage, in case the enemy has resistance to a certain damage type. Every press of a button will halve the damage of the specified damage type.
+
+Weapon Damages and Weapon Notes:
+
++----------------+----------------+----------------+----------------+----------------+
+| Goat Staff     | Demon Hammer   | Javelin        | Longbow        | Fire Shield    |
++================+================+================+================+================+
+| 1 six sided    | 1 eight sided  | 1 eight sided  | 1 eight sided  | 2 four sided   |
+| die + 3        | die + 2 six    | die, no        | die, no        | dice           |
+|                | sided dice + 2 | modifier       | modifier       |                |
++----------------+----------------+----------------+----------------+----------------+
+| Add a six sided|                | A weapon with  | A weapon with  |                |
+| die of damage  |                | a 30/120 range | a 150/600      |                |
+| for each charge|                | range          | range          |                |
+| of the charges |                |                |                |                |
+| dropbox        |                |                |                |                |
++----------------+----------------+----------------+----------------+----------------+
 
 Contribute
 ----------
