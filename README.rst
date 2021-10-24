@@ -42,6 +42,7 @@ Configurations to Make Before Clicking the "Do The Thing" Button:
 - Dropbox that allows you to select if you have advantage or disadvantage on an attack roll
 - Dropbox that allows you to select with how many charges of your Goat Staff you would like to hit with
 - Dropbox that allows you to choose if you want to use a paladin's divine smite, and at what level
+    - Level 1 smite does extra damage equal to 2 eight sided dice, and each further level does an extra eight sided die of damage
 - Checkbox to be activated if your character is currently in a barbarian rage
 - Checkbox to be activated if your character would like to use the battlemaster feature
 - Checkbox to be activated only if you know your character will deal the extra damage of a critical attack (see NAT TWENNY above)
@@ -56,15 +57,21 @@ Weapon Damages and Weapon Notes:
 | Goat Staff     | Demon Hammer   | Javelin        | Longbow        | Fire Shield    |
 +================+================+================+================+================+
 | 1 six sided    | 1 eight sided  | 1 eight sided  | 1 eight sided  | 2 four sided   |
-| die + 3        | die + 2 six    | die, no        | die, no        | dice           |
-|                | sided dice + 2 | modifier       | modifier       |                |
+| die + 3        | die + 2 six    | die, no        | die, no        | dice, no       |
+|                | sided dice + 2 | modifier       | modifier       | modifier       |
 +----------------+----------------+----------------+----------------+----------------+
 | Add a six sided|                | A weapon with  | A weapon with  |                |
 | die of damage  |                | a 30/120 range | a 150/600      |                |
-| for each charge|                | range          | range          |                |
+| for each charge|                |                | range          |                |
 | of the charges |                |                |                |                |
 | dropbox        |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+
+
+Further Notes:
+- The +3 and the +2 for the goat staff and demon hammer also denote a higher chance of hitting the target (+3 and +2 to attack rolls)
+- The numbers for range (n/m) denote short range and long range. Any target within short range can be attacked from that distance, but further targets that are not beyond long range are more difficult to hit and you must select "Disadvantage" in the advantage dropbox
+- By default, distances in dungeons and dragons are measured by feet
+- Weapons here, unless otherwise specified, can only hit nearby enemies within 5 feet of your character
 
 Contribute
 ----------
