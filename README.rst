@@ -31,7 +31,13 @@ After the download and after making any desired changes, you can turn this into 
 Configurations in the Code
 --------------------------
 
+Once you have installed all .java files, there is not much to change. Simply look at lines 27-29 of the file BolAttacks.java
 
+- Line 27: Change the value of PROFICIENCY_BONUS to the correct proficiency bonus (see https://roll20.net/compendium/dnd5e/Ability%20Scores#toc_3)
+- Line 28: Change the value of STRENGTH_BONUS to your correct strength modifier (see https://roll20.net/compendium/dnd5e/Ability%20Scores#toc_1)
+- Line 29: Change the value of DEXTERITY_BONUS to your correct dexterity modifier (see https://roll20.net/compendium/dnd5e/Ability%20Scores#toc_1)
+
+With this, you can now run the program!
 
 Configurations in the GUI
 -------------------------
@@ -87,7 +93,7 @@ For any questions or concerns, please contact me at notarealemail@____.com
 
 If you have any complaints and would like points deducted off of this assignment, please forward all issues to pleasedontfailme@____.com
 
-Please understand that this code was written by a younger version of myself and it doesn't hold up to many, if any, standards of cleanliness.
+Please understand that this code was written by a younger version of myself and if I were to fully release it to the public I would make it cleaner and more readable.
  
 License
 -------
