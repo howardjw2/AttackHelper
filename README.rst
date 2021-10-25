@@ -75,6 +75,7 @@ Weapon Damages and Weapon Notes:
 +----------------+----------------+----------------+----------------+----------------+
 
 Further Notes:
+
 - The +3 and the +2 for the goat staff and demon hammer also denote a higher chance of hitting the target (+3 and +2 to attack rolls)
 - The numbers for range (n/m) denote short range and long range. Any target within short range can be attacked from that distance, but further targets that are not beyond long range are more difficult to hit and you must select "Disadvantage" in the advantage dropbox
 - By default, distances in dungeons and dragons are measured by feet
